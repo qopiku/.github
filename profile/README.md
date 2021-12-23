@@ -29,6 +29,8 @@ A group of developers who have the same goal of developing software with passion
   Beautiful browser homepage extension with bookmarked link list.
 - Generus<br/>
   Information System for Youth Generous Data Collection in Pemalang.
+- [Shafima API](https://docs.sdev.web.id)<br/>
+  RESTful API service is free and versatile.
 
 ## :briefcase: Handling
 
