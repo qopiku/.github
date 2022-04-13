@@ -9,30 +9,30 @@ A group of developers who have the same goal of developing software with passion
 
 ## :construction: Projects
 
-- [HubDelay](https://github.com/sProDev/HubDelay)<br/>
+- [HubDelay](https://github.com/sProDev/HubDelay) - **Unmaintained**<br/>
   Pocketmine plugin for teleport to hub with delay.
-- FROBOT<br/>
+- FROBOT - **Deprecated**<br/>
   Multipurpose WhatsApp Bot.
-- [CrushBot](https://github.com/sProDev/CrushBot)<br/>
+- [CrushBot](https://github.com/sProDev/CrushBot) - **Deprecated**<br/>
   Anonymous ChatBot for WhatsApp.
-- [Kalam Ilahi](https://www.instagram.com/kalam.ilahi_)<br/>
+- [Kalam Ilahi](https://www.instagram.com/kalam.ilahi_) - **Temp Unmaintained**<br/>
   An Instagram bot assigned to randomly spread Allah's verses.
-- Kelulusan<br/>
+- Kelulusan - **Unmaintained**<br/>
   A lightweight graduation information system.
-- E-Absensi<br/>
+- E-Absensi - **Unmaintained**<br/>
   Digital attendance with online signature feature.
-- Backuper<br/>
+- Backuper - **Unmaintained**<br/>
   Small script to back up folders and files to Google Drive.
-- Autovoters<br/>
+- Autovoters - **Unmaintained**<br/>
   Auto voters untuk [minecraftpocket-servers.com](https://minecraftpocket-servers.com).
-- [Edge Home](https://github.com/sProDev/edge-home)<br/>
+- [Edge Home](https://github.com/sProDev/edge-home) - **Unmaintained**<br/>
   Beautiful browser homepage extension with bookmarked link list.
-- Generus<br/>
+- Generus - **Unmaintained**<br/>
   Information System for Youth Generous Data Collection in Pemalang.
-- [Shafima API](https://docs.sdev.web.id)<br/>
+- [Shafima API](https://docs.sdev.web.id) - **Under Development**<br/>
   RESTful API service is free and versatile.
 
-## :briefcase: Handling
+## :beach_umbrella: Post-Handling
 
 - [SMK Negeri 1 Pemalang](https://github.com/smkn1pml)
 - [Technology Community](https://github.com/tecopro)
