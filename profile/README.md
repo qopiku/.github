@@ -1,4 +1,4 @@
-# Shafima Dev :rocket:
+# Shafima Dev :cat::motorcycle:
 
 Hello! We are Shafima Dev.<br/>
 A group of developers who have the same goal of developing software with passion and earnestness.
