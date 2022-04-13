@@ -24,7 +24,7 @@ A group of developers who have the same goal of developing software with passion
 - Backuper - **Unmaintained**<br/>
   Small script to back up folders and files to Google Drive.
 - Autovoters - **Unmaintained**<br/>
-  Auto voters untuk [minecraftpocket-servers.com](https://minecraftpocket-servers.com).
+  Auto voters for [minecraftpocket-servers.com](https://minecraftpocket-servers.com).
 - [Edge Home](https://github.com/sProDev/edge-home) - **Unmaintained**<br/>
   Beautiful browser homepage extension with bookmarked link list.
 - Generus - **Unmaintained**<br/>
