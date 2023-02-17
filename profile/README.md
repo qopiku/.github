@@ -1,6 +1,6 @@
 # Qopiku :coffee:
 
-Hello! We are **Qopiku**!<br/>
+Hello! We are **Qopiku** (formerly Shafima Dev)<br/>
 A group of developers who have the same goal of developing software with passion and earnestness.
 
 ## :construction: Projects
