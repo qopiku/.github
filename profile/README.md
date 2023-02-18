@@ -17,7 +17,7 @@ A group of developers who have the same goal of developing software with passion
   Digital attendance with online signature feature.
 - Backuper - **Unmaintained**<br/>
   Small script to back up folders and files to Google Drive.
-- Autovoters - **Unmaintained**<br/>
+- Autovoters - **Discontinued**<br/>
   Auto voters for [minecraftpocket-servers.com](https://minecraftpocket-servers.com).
 - [Edge Home](https://github.com/qopiku/edge-home) - **Unmaintained**<br/>
   Beautiful browser homepage extension with bookmarked link list.
