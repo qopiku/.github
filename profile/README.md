@@ -5,7 +5,7 @@ A group of developers who have the same goal of developing software with passion
 
 ## :construction: Projects
 
-- [HubDelay](https://github.com/qopiku/HubDelay) - **Unmaintained**<br/>
+- [HubDelay](https://github.com/qopiku/HubDelay) - **Discontinued**<br/>
   Pocketmine plugin for teleport to hub with delay.
 - FROBOT - **Discontinued**<br/>
   Multipurpose WhatsApp Bot.
